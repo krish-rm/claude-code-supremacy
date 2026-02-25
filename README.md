@@ -1,4 +1,4 @@
-# claude-code-supremacy
+# Claude Code supremacy
 
 > A technical analysis of why Claude Code represents a categorical shift in software engineering — not a productivity multiplier, but an autonomous engineering system operating at a different level of abstraction than every major alternative.
 
